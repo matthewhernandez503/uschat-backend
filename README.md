@@ -20,7 +20,7 @@ Ensure you have the following installed on your system:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/matthewhernandez503/uschat-backend
    cd uschat-backend
    ```
 
@@ -33,8 +33,6 @@ Ensure you have the following installed on your system:
    ```env
    MONGO_URI=<your-mongodb-uri>
    JWT_SECRET=<your-secret-key>
-   FRONTEND_URL=https://dreamqin68.github.io
-   PORT=8747
    ```
 
 4. Start the server:
