@@ -37,7 +37,7 @@ Ensure you have the following installed on your system:
 
 4. Start the server:
    ```bash
-   npm start
+   npm run dev
    ```
 
 The backend should now be running on `http://localhost:8747`.
